@@ -3,54 +3,59 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Nikolaus Nova Parulian
+    tagline: 
+    avatar: nikolaus.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: nnp2@illinois.edu
+    # phone: 012 345 6789
+    timezone: America/Chicago
+    #citizenship:
+    #website: blog.webjeda.com #do not add http://
+    scholar_link: https://scholar.google.com/citations?user=o7ex2NIAAAAJ&hl=en&authuser=2
+    scholar: Google scholar
+    #linkedin: alandoe
+    #xing: alandoe
+    github: nikolausn
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+    #languages:
+    #  title: Languages
+    #  info:
+    #    - idiom: English
+    #      level: Native
 
-        - idiom: French
-          level: Professional
+    #    - idiom: French
+    #      level: Professional
 
-        - idiom: Spanish
-          level: Professional
+    #    - idiom: Spanish
+    #      level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Data Science
           link:
 
-        - item: Snowboarding
+        - item: Machine Learning
           link:
 
-        - item: Cooking
+        - item: Digital Library
+          link:
+
+        - item: Data Curation and Provenance
           link:
 
 career-profile:
@@ -65,49 +70,36 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: PhD in Information Sciences
+        university: University of Illinois Urbana Champaign
+        time: 2018 - Expected Graduate Aug 2023
+        details: |
+        
+      - degree: MSc in Information Management
+        university: University of Illinois Urbana Champaign
         time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+
+      - degree: BEng in Informatics
+        university: Telkom University
+        time: 2002 - 2006
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Research Assistant @ HathiTrust Research Center
+        time: 2019 - Present
+        company: University of Illinois Urbana Champaign
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Resarch Assistant @ Blender Natural Language Processing Lab
+        time: 2020 - 2021
+        company: University of Illinois Urbana Champaign
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -116,9 +108,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Network Analysis Research @ Socio computing lab
+        time: 2019 - 2021
+        company: University of Illinois Urbana Champaign
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -127,6 +119,13 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
+      - role: Part Time Robotics Machine Learning Internship
+        time: 2019 - 2022
+        company: John Deere Technology Innovation Center
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+
+
 projects:
     title: Projects
     intro: >
@@ -155,26 +154,70 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Data Transparency and Provenance
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
-      - title: The Art of Computer Programming
+      - title: "test"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+selected_publications:
+  title: Selected Publications
+  publications:
+    - title: Data Transparency and Provenance
+      intro: |
+
+      papers:
+        - title: "Parulian, N. N., & Ludäscher, B. (2022). Conceptual Model and Framework for Collaborative Data Cleaning. In International Digital Curation Conference 2022."
+          link: "#"
+          #authors: Donald E. Knuth
+          #conference: Addison-Wesley, 1968
+
+        - title: "Parulian, N. N., & Ludäscher, B. (2022, June). DCM explorer: a tool to support transparent data cleaning through provenance exploration. In Proceedings of the 14th International Workshop on the Theory and Practice of Provenance (pp. 1-6)."
+          link: "#"
+          #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+          #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        
+        - title: "Parulian, N. N., McPhillips, T. M., & Ludäscher, B. (2021). A Model and System for Querying Provenance from Data Cleaning Workflows. In Provenance and Annotation of Data and Processes (pp. 183-197). Springer, Cham."
+          link: "#"
+
+        - title: "Parulian, N. N., Li, L., & Ludäscher, B. (2021). or2yw: Modeling and Visualizing OpenRefine Histories as YesWorkflow Diagrams."
+          link: "#"
+
+    - title: Digital Library / Digital Humanities
+      intro: |
+
+      papers:
+        - title: "Parulian, N. N., Dubnicek, R., Worthey, G., Downie, J.S. (2022). Uncovering Black Fantastic: Piloting A Word Feature Analysis and Machine Learning Approach for Genre Classification. In Proceedings of the Association for Information Science and Technology."
+          link: "#"
+        - title: "Parulian, N. N., & Worthey, G. (2021). Identifying Creative Content at the Page Level in the HathiTrust Digital Library Using Machine Learning Methods on Text and Image Features. In Diversity, Divergence, Dialogue: 16th International Conference, iConference 2021, Beijing, China, March 17–31, 2021, Proceedings, Part I 16 (pp. 478-489). Springer International Publishing. "
+          link: "#"
+        - title: "Parulian, N., Dubnicek, R., Eden, K., Hu, Y., & Downie, S. (2020), Evaluating a machine learning approach to identify expressive content at page level in HathiTrust. Advance Issue of Digital Scholarship in the Humanities."
+          link: "#"
+                
+    - title: Network Analysis
+      intro: |
+
+      papers:
+        - title: "Dinh, L., & Parulian, N. (2020). COVID‐19 pandemic and information diffusion analysis on Twitter. Proceedings of the Association for Information Science and Technology, 57(1), e252."
+          link: "#"
+        - title: "Parulian, N. N., Lu, T., Mishra, S., Avram, M., & Diesner, J. (2020). Effectiveness of the Execution and Prevention of Metric-Based Adversarial Attacks on Social Network Data. Information, 11(6), 306."
+          link: "#"
+        - title: "Avram, M. V., Mishra, S., Parulian, N. N., & Diesner, J. (2019, August). Adversarial perturbations to manipulate the perception of power and influence in networks. In 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM) (pp. 986-994). IEEE."
+          link: "#"
+
+    - title: Knowledge Information Extraction
+      intro: |
+
+      papers:      
+        - title: "Zhang, Z., Parulian, N., Ji, H., Elsayed, A., Myers, S., & Palmer, M. (2021, August). Fine-grained information extraction from biomedical literature based on knowledge-enriched Abstract Meaning Representation. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 6261-6270)."
+          link: "#"  
+        - title: "Wang, Q., Li, M., Wang, X., Parulian, N., Han, G., Ma, J., ... & Onyshkevych, B. (2021, June). COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Demonstrations (pp. 66-77)."
+          link: "#"
+        - title: "Huang, L., Cao, S., Parulian, N., Ji, H., & Wang, L. (2021, June). Efficient Attentions for Long Document Summarization. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1419-1436)."
+          link: "#"
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -199,4 +242,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
