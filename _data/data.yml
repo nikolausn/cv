@@ -77,7 +77,7 @@ education:
         
       - degree: MSc in Information Management
         university: University of Illinois Urbana Champaign
-        time: 2011 - 2012
+        time: 2016 - 2017
         details: |
 
       - degree: BEng in Informatics
@@ -92,66 +92,46 @@ experiences:
         time: 2019 - Present
         company: University of Illinois Urbana Champaign
         details: |
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Resarch Assistant @ Blender Natural Language Processing Lab
+          - Applied machine learning on digital library collection
+      - role: Resarch Assistant @ Blender NLP Lab
         time: 2020 - 2021
         company: University of Illinois Urbana Champaign
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Knowledge information extraction from domain specific paper / literature 
+            such as COVID-19, Biochemistry related papers.    
       - role: Network Analysis Research @ Socio computing lab
         time: 2019 - 2021
         company: University of Illinois Urbana Champaign
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Analyze adversary / perturbation on network for 
+          - Social media sentiment research on COVID-19 pandemic related topics. 
       - role: Part Time Robotics Machine Learning Internship
         time: 2019 - 2022
         company: John Deere Technology Innovation Center
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          - Data warehouse administration and development for data analytics workflow.
+          - Research and Development for sensor fusion systems for Autonomous Vehicles.
+          - Working with computer vision (image processing), for object/obstacle detection systems.
 
 
 projects:
-    title: Projects
+    title: Synergetic Activities
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Association of Computing Machinery for Woman (ACM-W), Technology Administrator (2020)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: ""
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: LIS Education and Data Science for the National Digital Platform (LEADS-4-NDP) Fellow (2019)
+        link: "https://cci.drexel.edu/mrc/research/leads/"
+        tagline: "LEADS-4-NDP is supported by the Institute of Library and Museum Services (IMLS) Laura Bush 21st Century Librarian Program, and includes a cohort of 21 talented LEADS Fellows ready to address and advance data science challenges in the workplace and education."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: COVID-19 Literature Surveillance Team Technology Coordinator (2020)
+        link: "https://web.archive.org/web/20201001000000*/https://www.covid19lst.org"
+        tagline: "Providing crowdsourcing mechanism for literature survey, critics, and evidence mining for COVID-19 literature-related. (Site archived)"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 publications:
     title: Data Transparency and Provenance
