@@ -13,6 +13,7 @@ sidebar:
 
     # Sidebar links
     email: nnp2@illinois.edu
+    email2: nikolaus.nova@gmail.com
     # phone: 012 345 6789
     timezone: America/Chicago
     #citizenship:
@@ -46,27 +47,29 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: Data Curation and Provenance
+          link:
+        - item: Digital Library
+          link:                    
+        - item: Machine Learning
+          link:
+        - item: Natural Language Proessing
+          link:
         - item: Data Science
           link:
 
-        - item: Machine Learning
-          link:
 
-        - item: Digital Library
-          link:
 
-        - item: Data Curation and Provenance
-          link:
+
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am PhD candidate of Information Sciences from the School of Information Sciences at 
+      the University of Illinois, Urbana Champaign. 
+      I also holds a Master Degree in Information Management from the University of Illinois. 
+      My research interests include topics related to machine learning, text mining, data transparency/provenance, 
+      and network analysis.       
 education:
     title: Education
     info:
@@ -92,18 +95,20 @@ experiences:
         time: 2019 - Present
         company: University of Illinois Urbana Champaign
         details: |
-          - Applied machine learning on digital library collection
+          - Survey and analyzing machine learning methods and performances for frontmatter detection analysis for HathiTrust digital library collection.
+          - Social network relationship extraction from fiction text dataset.
+          - Analyzing machine learning approaches and performances for Black Fantastic sub-genre prediction. 
       - role: Resarch Assistant @ Blender NLP Lab
         time: 2020 - 2021
         company: University of Illinois Urbana Champaign
         details: |
           - Knowledge information extraction from domain specific paper / literature 
-            such as COVID-19, Biochemistry related papers.    
+            such as COVID-19, and Biochemistry related papers.              
       - role: Network Analysis Research @ Socio computing lab
         time: 2019 - 2021
         company: University of Illinois Urbana Champaign
         details: |
-          - Analyze adversary / perturbation on network for 
+          - Analyze adversary / perturbation on network structure to the network metrics.  
           - Social media sentiment research on COVID-19 pandemic related topics. 
       - role: Part Time Robotics Machine Learning Internship
         time: 2019 - 2022
@@ -120,7 +125,7 @@ projects:
 
     assignments:
       - title: Association of Computing Machinery for Woman (ACM-W), Technology Administrator (2020)
-        link: "#"
+        link: "https://acmw.illinois.edu/"
         tagline: ""
 
       - title: LIS Education and Data Science for the National Digital Platform (LEADS-4-NDP) Fellow (2019)
@@ -134,11 +139,11 @@ projects:
 
 
 publications:
-    title: Data Transparency and Provenance
+    title: Publications
     intro: |
 
     papers:
-      - title: "test"
+      - title: ""
         link: "#"
 
 
@@ -151,13 +156,9 @@ selected_publications:
       papers:
         - title: "Parulian, N. N., & Ludäscher, B. (2022). Conceptual Model and Framework for Collaborative Data Cleaning. In International Digital Curation Conference 2022."
           link: "#"
-          #authors: Donald E. Knuth
-          #conference: Addison-Wesley, 1968
 
         - title: "Parulian, N. N., & Ludäscher, B. (2022, June). DCM explorer: a tool to support transparent data cleaning through provenance exploration. In Proceedings of the 14th International Workshop on the Theory and Practice of Provenance (pp. 1-6)."
           link: "#"
-          #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-          #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
         
         - title: "Parulian, N. N., McPhillips, T. M., & Ludäscher, B. (2021). A Model and System for Querying Provenance from Data Cleaning Workflows. In Provenance and Annotation of Data and Processes (pp. 183-197). Springer, Cham."
           link: "#"
