@@ -30,7 +30,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: "assets/cv/nikolaus_parulian_resume.pdf"
 
     #languages:
     #  title: Languages
@@ -58,18 +58,19 @@ sidebar:
         - item: Data Science
           link:
 
-
-
-
-
 career-profile:
     title: Career Profile
     summary: |
-      I am PhD candidate of Information Sciences from the School of Information Sciences at 
-      the University of Illinois, Urbana Champaign. 
-      I also holds a Master Degree in Information Management from the University of Illinois. 
-      My research interests include topics related to machine learning, text mining, data transparency/provenance, 
-      and network analysis.       
+      I am a Ph.D. in Information Sciences from the University of Illinois, Urbana Champaign School of Information Sciences. 
+      I also hold a Master's Degree in Information Management from the University of Illinois. 
+      I have contributed to diverse communities on Information Sciences research, including network analysis, 
+      digital humanities and digital library, data curation, and natural language processing. 
+      I am particularly interested in providing a transparent data processing model using provenance information 
+      that can be easily queried and analyzed. Data cleaning and preparation are essential for data science workflow. 
+      The decision to clean the data to improve data quality or make the data ready to use can also affect the analysis 
+      result output. Therefore, it is important to make this process transparent to make it easily auditable and accessible,
+      and to some extend can also be reusable and replicable by others. 
+
 education:
     title: Education
     info:
@@ -92,6 +93,7 @@ experiences:
     title: Experiences
     info:
       - role: Research Assistant @ HathiTrust Research Center
+        link: https://www.hathitrust.org/htrc
         time: 2019 - Present
         company: University of Illinois Urbana Champaign
         details: |
@@ -99,25 +101,27 @@ experiences:
           - Social network relationship extraction from fiction text dataset.
           - Analyzing machine learning approaches and performances for Black Fantastic sub-genre prediction. 
       - role: Resarch Assistant @ Blender NLP Lab
+        link: http://blender.cs.illinois.edu/index.html
         time: 2020 - 2021
         company: University of Illinois Urbana Champaign
         details: |
           - Knowledge information extraction from domain specific paper / literature 
             such as COVID-19, and Biochemistry related papers.              
       - role: Network Analysis Research @ Socio computing lab
+        link: https://jdiesnerlab.ischool.illinois.edu/
         time: 2019 - 2021
         company: University of Illinois Urbana Champaign
         details: |
           - Analyze adversary / perturbation on network structure to the network metrics.  
           - Social media sentiment research on COVID-19 pandemic related topics. 
-      - role: Part Time Robotics Machine Learning Internship
+      - role: Robotics Machine Learning Internship
+        link: https://researchpark.illinois.edu/tenant_directory/john-deere-technology-innovation-center/
         time: 2019 - 2022
         company: John Deere Technology Innovation Center
         details: |
           - Data warehouse administration and development for data analytics workflow.
           - Research and Development for sensor fusion systems for Autonomous Vehicles.
           - Working with computer vision (image processing), for object/obstacle detection systems.
-
 
 projects:
     title: Synergetic Activities
@@ -126,7 +130,7 @@ projects:
     assignments:
       - title: Association of Computing Machinery for Woman (ACM-W), Technology Administrator (2020)
         link: "https://acmw.illinois.edu/"
-        tagline: ""
+        tagline: "UIUC ACM-W The Association for Computing Machinery for Women student chapter at the University of Illinois at Urbana-Champaign (UIUC ACM-W) was established in October 2019. Our chapter aims to increase awareness and knowledge about the role of women in tech and their great contributions to science, design, development, construction, languages, management, and applications of modern computing."
 
       - title: LIS Education and Data Science for the National Digital Platform (LEADS-4-NDP) Fellow (2019)
         link: "https://cci.drexel.edu/mrc/research/leads/"
@@ -135,8 +139,6 @@ projects:
       - title: COVID-19 Literature Surveillance Team Technology Coordinator (2020)
         link: "https://web.archive.org/web/20201001000000*/https://www.covid19lst.org"
         tagline: "Providing crowdsourcing mechanism for literature survey, critics, and evidence mining for COVID-19 literature-related. (Site archived)"
-
-
 
 publications:
     title: Publications
@@ -155,16 +157,16 @@ selected_publications:
 
       papers:
         - title: "Parulian, N. N., & Ludäscher, B. (2022). Conceptual Model and Framework for Collaborative Data Cleaning. In International Digital Curation Conference 2022."
-          link: "#"
+          link: "https://doi.org/10.5281/zenodo.6781134"
 
         - title: "Parulian, N. N., & Ludäscher, B. (2022, June). DCM explorer: a tool to support transparent data cleaning through provenance exploration. In Proceedings of the 14th International Workshop on the Theory and Practice of Provenance (pp. 1-6)."
-          link: "#"
+          link: "https://dl.acm.org/doi/abs/10.1145/3530800.3534539"
         
         - title: "Parulian, N. N., McPhillips, T. M., & Ludäscher, B. (2021). A Model and System for Querying Provenance from Data Cleaning Workflows. In Provenance and Annotation of Data and Processes (pp. 183-197). Springer, Cham."
-          link: "#"
+          link: "https://link.springer.com/chapter/10.1007/978-3-030-80960-7_11"
 
         - title: "Parulian, N. N., Li, L., & Ludäscher, B. (2021). or2yw: Modeling and Visualizing OpenRefine Histories as YesWorkflow Diagrams."
-          link: "#"
+          link: "https://arxiv.org/abs/2112.08259"
 
     - title: Digital Library / Digital Humanities
       intro: |
@@ -172,33 +174,33 @@ selected_publications:
       papers:
         - title: "Parulian, N. N., Dubnicek, R., Worthey, G., Downie, J.S. (2022). Uncovering Black Fantastic: Piloting A Word Feature Analysis and Machine Learning Approach for Genre Classification. In Proceedings of the Association for Information Science and Technology."
           link: "#"
+        - title: "Parulian, N. N., Worthey, G., & Downie, J. S. (2022, February). An Ensemble Framework for Dynamic Character Relationship Sentiment in Fiction. In International Conference on Information (pp. 414-424). Springer, Cham."
+          link: "https://link.springer.com/chapter/10.1007/978-3-030-96957-8_35" 
         - title: "Parulian, N. N., & Worthey, G. (2021). Identifying Creative Content at the Page Level in the HathiTrust Digital Library Using Machine Learning Methods on Text and Image Features. In Diversity, Divergence, Dialogue: 16th International Conference, iConference 2021, Beijing, China, March 17–31, 2021, Proceedings, Part I 16 (pp. 478-489). Springer International Publishing. "
-          link: "#"
-        - title: "Parulian, N., Dubnicek, R., Eden, K., Hu, Y., & Downie, S. (2020), Evaluating a machine learning approach to identify expressive content at page level in HathiTrust. Advance Issue of Digital Scholarship in the Humanities."
-          link: "#"
+          link: "https://link.springer.com/chapter/10.1007/978-3-030-71292-1_37"
+
                 
     - title: Network Analysis
       intro: |
 
       papers:
         - title: "Dinh, L., & Parulian, N. (2020). COVID‐19 pandemic and information diffusion analysis on Twitter. Proceedings of the Association for Information Science and Technology, 57(1), e252."
-          link: "#"
+          link: "https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.252"
         - title: "Parulian, N. N., Lu, T., Mishra, S., Avram, M., & Diesner, J. (2020). Effectiveness of the Execution and Prevention of Metric-Based Adversarial Attacks on Social Network Data. Information, 11(6), 306."
-          link: "#"
+          link: "https://www.mdpi.com/2078-2489/11/6/306"
         - title: "Avram, M. V., Mishra, S., Parulian, N. N., & Diesner, J. (2019, August). Adversarial perturbations to manipulate the perception of power and influence in networks. In 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM) (pp. 986-994). IEEE."
-          link: "#"
+          link: "https://ieeexplore.ieee.org/abstract/document/9073185/"
 
     - title: Knowledge Information Extraction
       intro: |
 
       papers:      
         - title: "Zhang, Z., Parulian, N., Ji, H., Elsayed, A., Myers, S., & Palmer, M. (2021, August). Fine-grained information extraction from biomedical literature based on knowledge-enriched Abstract Meaning Representation. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 6261-6270)."
-          link: "#"  
+          link: "https://aclanthology.org/2021.acl-long.489/"  
         - title: "Wang, Q., Li, M., Wang, X., Parulian, N., Han, G., Ma, J., ... & Onyshkevych, B. (2021, June). COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Demonstrations (pp. 66-77)."
-          link: "#"
+          link: "https://aclanthology.org/2021.naacl-demos.8/"
         - title: "Huang, L., Cao, S., Parulian, N., Ji, H., & Wang, L. (2021, June). Efficient Attentions for Long Document Summarization. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 1419-1436)."
-          link: "#"
-
+          link: "https://aclanthology.org/2021.naacl-main.112/"
 
 skills:
     title: Skills &amp; Proficiency
