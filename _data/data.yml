@@ -69,7 +69,7 @@ career-profile:
       that can be easily queried and analyzed. Data cleaning and preparation are essential for data science workflow. 
       The decision to clean the data to improve data quality or make the data ready to use can also affect the analysis 
       result output. Therefore, it is important to make this process transparent to make it easily auditable and accessible,
-      and to some extend can also be reusable and replicable by others. 
+      and to some extent can also be reusable and replicable by others. 
 
 education:
     title: Education
