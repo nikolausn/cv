@@ -49,7 +49,7 @@ sidebar:
       info:
         - item: Data Curation and Provenance
           link:
-        - item: Digital Library
+        - item: Digital Libraries
           link:                    
         - item: Machine Learning
           link:
@@ -64,7 +64,7 @@ career-profile:
       I am a Ph.D. candidate in Information Sciences from the University of Illinois, Urbana Champaign School of Information Sciences. 
       I also hold a Master's Degree in Information Management from the University of Illinois. 
       I have contributed to diverse communities on Information Sciences research, including network analysis, 
-      digital humanities and digital library, data curation, and natural language processing. 
+      digital humanities and digital libraries, data curation, and natural language processing. 
       I am particularly interested in providing a transparent data processing model using provenance information 
       that can be easily queried and analyzed. Data cleaning and preparation are essential for data science workflow. 
       The decision to clean the data to improve data quality or make the data ready to use can also affect the analysis 
@@ -168,7 +168,7 @@ selected_publications:
         - title: "Parulian, N. N., Li, L., & Ludäscher, B. (2021). or2yw: Modeling and Visualizing OpenRefine Histories as YesWorkflow Diagrams."
           link: "https://arxiv.org/abs/2112.08259"
 
-    - title: Digital Library / Digital Humanities
+    - title: Digital Libraries / Digital Humanities
       intro: |
 
       papers:
