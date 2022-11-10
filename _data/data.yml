@@ -173,7 +173,7 @@ selected_publications:
 
       papers:
         - title: "Parulian, N. N., Dubnicek, R., Worthey, G., Downie, J.S. (2022). Uncovering Black Fantastic: Piloting A Word Feature Analysis and Machine Learning Approach for Genre Classification. In Proceedings of the Association for Information Science and Technology."
-          link: "#"
+          link: "https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.620"
         - title: "Parulian, N. N., Worthey, G., & Downie, J. S. (2022, February). An Ensemble Framework for Dynamic Character Relationship Sentiment in Fiction. In International Conference on Information (pp. 414-424). Springer, Cham."
           link: "https://link.springer.com/chapter/10.1007/978-3-030-96957-8_35" 
         - title: "Parulian, N. N., & Worthey, G. (2021). Identifying Creative Content at the Page Level in the HathiTrust Digital Library Using Machine Learning Methods on Text and Image Features. In Diversity, Divergence, Dialogue: 16th International Conference, iConference 2021, Beijing, China, March 17–31, 2021, Proceedings, Part I 16 (pp. 478-489). Springer International Publishing. "
